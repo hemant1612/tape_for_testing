@@ -1,6 +1,6 @@
 # tape_for_testing js
 
-## Simple illustration to explore test code using tape.
+## Simple illustration to test code using tape.
 
 ```sh
 $ git clone https://github.com/hemant1612/tape_for_testing.git
