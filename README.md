@@ -1,4 +1,4 @@
-# tape_for_testing js
+# tape_for_testing js code
 
 ## Simple illustration to test code using tape.
 
@@ -13,5 +13,5 @@ $ node app.js
 
 ```
 
-##### Yeah ! Fun begins now ..
-##### Make your own test and share with me. :)
+Yeah ! Fun begins now
+### Hack your own tests.
