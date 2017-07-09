@@ -14,4 +14,4 @@ $ node app.js
 ```
 
 Yeah ! Fun begins now
-### Hack your own tests.
+### Hack your own tests & share  :)
